@@ -15,6 +15,7 @@
   <p id='status'>Loading model...</p>
   <p>cyan = x axis, yellow = y axis</p>
   <script src="sketch.js"></script>
+  
 </body>
 
 </html>
