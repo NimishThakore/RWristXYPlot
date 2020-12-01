@@ -13,6 +13,7 @@
 <body>
   <h1>PoseNet to extract 2D positions of right wrist over time</h1>
   <p id='status'>Loading model...</p>
+  <p>cyan = x axis, yellow = y axis</p>
   <script src="sketch.js"></script>
 </body>
 
